@@ -1,4 +1,3 @@
-
 from pystyle import *
 print(Box.Lines(" [+]TOLLS TRUB [+]"))
 Write.Print("[×] WARNING ⚠ L'M NOT RESPONSIBLE FOR ANYTHING YOU USE IN THE TOOL [×]\n",Colors.purple_to_red,interval=0.1)
